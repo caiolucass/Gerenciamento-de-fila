@@ -1,0 +1,282 @@
+277.626.948-93;Douglas Benicio;2;1
+609.074.642-80;Luiz Barros;2;1
+433.297.841-14;Lucas Paiva;4;0
+129.799.706-27;Daniela de Paula;5;1
+467.500.317-83;Rodrigo Borges;1;0
+631.219.750-80;Ian Pereira;6;0
+560.892.13-22;Felipe Sathler;4;2
+189.924.298-94;Mariana Ferreira;5;0
+167.005.315-90;Pedro Sathler;7;0
+279.736.492-18;Douglas Barros;5;1
+168.545.540-98;Pedro Rodrigues;3;0
+245.534.417-48;Matheus Guimarães;8;2
+586.055.745-87;Luiz Duarte;1;1
+513.811.497-01;Alex Gabriel;3;2
+656.270.879-50;Filipe de Jesus;8;1
+224.155.327-78;Rafael Veiga;1;2
+414.753.633-36;Lucas Araujo;2;1
+256.874.189-20;Matheus Duarte;3;0
+620.543.951-36;Ian Villani;3;0
+231.503.036-54;Rafael Rodrigues;6;0
+530.352.867-88;Alex Carvalho;1;2
+577.066.017-51;Felipe Guimarães;2;1
+327.847.969-18;Yuske da Silva;8;1
+267.571.990-92;Matheus Castilho;2;0
+292.758.981-05;Douglas Soares;8;1
+344.048.475-39;Alan Barros;3;2
+500.245.797-78;Luis Paiva;1;0
+431.441.401-59;Lucas Pereira;3;1
+160.725.563-62;Pedro Veiga;6;2
+139.190.857-09;Daniela Carvalho;4;1
+548.437.914-18;Felipe Aguiar;8;2
+663.779.690-82;Filipe Carvalho;3;0
+565.778.449-68;Felipe Pereira;4;0
+386.443.545-21;Victor Ferreira;7;2
+538.002.664-76;Alex Bertolini;4;0
+364.989.804-93;Alan Pereira;8;1
+302.347.890-78;Douglas Paiva;8;0
+624.001.475-04;Ian Soares;5;0
+491.347.174-18;Luis Silvino;5;1
+149.423.817-98;Pedro Barros;4;2
+382.779.911-59;Victor Gabriel;3;2
+423.877.452-22;Lucas Soares;5;0
+297.214.466-47;Douglas Sathler;4;3
+145.419.703-46;Pedro Bertolini;6;1
+502.574.378-34;Luis Massula;7;1
+572.293.960-59;Felipe Lourensão;3;3
+578.567.457-44;Felipe Gomes;2;1
+305.678.070-05;Douglas Maciel;2;3
+450.487.476-60;Rodrigo Ferreira;1;0
+271.685.390-38;Matheus Candido;3;2
+366.854.020-93;Alan Paiva;3;0
+446.133.245-99;Rodrigo Gabriel;1;2
+658.150.084-67;Filipe da Silva;3;0
+254.318.876-40;Matheus Ferreira;2;1
+263.599.987-03;Matheus da Silva;3;0
+463.803.613-11;Rodrigo Carvalho;4;1
+176.374.827-19;Mariana Maciel;4;2
+303.928.780-50;Douglas Massula;5;2
+580.144.642-53;Felipe Gabriel;4;1
+546.179.335-45;Alex Araujo;8;0
+602.199.115-39;Luiz Borges;3;2
+591.429.837-61;Luiz da Silva;8;2
+346.288.988-50;Alan Barbosa;2;0
+654.690.974-70;Filipe de Paula;4;2
+569.028.979-06;Felipe Massula;3;1
+150.931.355-89;Pedro Barbosa;4;2
+191.585.817-74;Mariana Duarte;4;0
+284.140.531-51;Douglas Araujo;1;2
+595.603.176-91;Luiz Castilho;1;0
+228.130.029-97;Rafael Silvino;8;1
+627.463.961-99;Ian Sathler;1;0
+240.777.615-38;Matheus Lourensão;3;1
+680.324.355-63;Filipe Aguiar;2;0
+418.702.585-48;Lucas Abdalla;6;2
+671.940.906-69;Filipe Benicio;5;0
+581.986.950-54;Luiz Freire;2;0
+201.131.636-57;Mariana Castilho;5;0
+518.127.498-46;Alex Ferreira;7;1
+406.763.364-26;Victor Bertolini;1;1
+437.260.387-08;Lucas Maciel;8;2
+410.626.472-19;Victor Barros;8;1
+125.458.114-44;Daniela Ferreira;6;2
+388.815.469-07;Victor Duarte;5;2
+178.508.319-50;Mariana Lourensão;3;2
+374.129.303-16;Alan Lourensão;2;2
+532.899.316-76;Alex Candido;2;0
+420.625.372-49;Lucas Villani;8;2
+471.651.555-99;Rodrigo Benicio;7;0
+678.938.873-70;Filipe Araujo;8;2
+143.355.565-69;Pedro Borges;1;1
+667.744.934-23;Filipe Borges;2;2
+504.282.141-30;Luis Maciel;4;0
+123.456.789-01;Daniela Freire;3;0
+169.973.735-25;Pedro Pereira;6;0
+480.595.231-06;Luis Aguiar;6;1
+384.651.847-82;Victor Freire;7;2
+554.638.329-64;Felipe Veiga;7;1
+196.975.092-23;Mariana da Silva;7;0
+214.740.622-62;Rafael Barbosa;4;2
+152.316.027-49;Pedro Araujo;8;1
+133.275.330-41;Daniela da Silva;4;1
+516.123.709-76;Alex Freire;4;0
+131.853.070-77;Daniela de Jesus;4;1
+289.153.810-70;Douglas Villani;3;2
+652.048.506-47;Filipe Duarte;3;1
+615.752.943-69;Luiz Aguiar;3;0
+147.743.187-94;Pedro Benicio;5;0
+311.854.795-50;Yuske Guimarães;2;1
+482.804.274-04;Luis Abdalla;8;0
+335.151.163-39;Yuske Carvalho;1;0
+640.650.511-64;Ian Heredia;1;1
+336.776.361-56;Yuske Candido;8;0
+505.664.509-46;Luis Lourensão;8;1
+208.902.158-94;Rafael Bertolini;3;0
+462.343.108-78;Rodrigo Castilho;7;1
+250.469.267-89;Matheus Gabriel;6;2
+475.700.015-33;Rodrigo Barbosa;5;0
+587.776.724-38;Luiz de Paula;6;0
+233.101.098-99;Rafael Pereira;5;0
+349.350.795-89;Alan Aguiar;5;0
+285.800.363-38;Douglas Aguiar;4;1
+644.883.456-94;Ian Gomes;4;1
+330.202.614-68;Yuske Costa;2;1
+495.543.277-45;Luis Rodrigues;5;0
+459.684.705-89;Rodrigo Costa;1;0
+163.112.089-92;Pedro Soares;8;0
+206.681.468-49;Mariana Borges;1;1
+269.205.130-95;Matheus Carvalho;7;2
+182.708.921-81;Mariana Guimarães;6;1
+567.195.735-03;Felipe Paiva;6;0
+539.707.779-72;Alex Benicio;5;2
+204.770.398-50;Mariana Candido;8;0
+234.708.242-90;Rafael Paiva;3;2
+674.309.497-11;Filipe Barros;7;0
+156.532.585-46;Pedro Abdalla;2;2
+135.685.326-48;Daniela Costa;2;1
+470.033.895-63;Rodrigo Bertolini;4;0
+193.706.944-90;Mariana de Paula;7;3
+665.137.186-40;Filipe Candido;3;3
+347.913.139-04;Alan Araujo;1;2
+195.072.326-14;Mariana de Jesus;2;1
+556.974.599-14;Felipe Soares;6;1
+625.709.260-13;Ian Silvino;4;0
+320.314.845-03;Yuske Ferreira;4;2
+397.264.585-05;Victor Costa;5;0
+212.576.831-94;Rafael Barros;7;0
+369.395.763-47;Alan Massula;5;0
+218.569.643-26;Rafael Aguiar;7;2
+570.447.135-12;Felipe Maciel;5;1
+451.985.629-95;Rodrigo Duarte;5;2
+322.310.000-50;Yuske Duarte;5;1
+380.695.574-46;Victor Gomes;8;0
+359.518.065-62;Alan Silvino;7;0
+465.394.421-27;Rodrigo Candido;4;2
+307.530.177-77;Douglas Lourensão;3;3
+611.160.278-43;Luiz Barbosa;7;2
+458.178.880-69;Rodrigo da Silva;7;2
+542.192.636-70;Alex Barros;1;0
+453.572.585-46;Rodrigo de Paula;8;0
+519.683.209-38;Alex Duarte;7;1
+488.690.625-04;Luis Soares;4;0
+660.800.185-86;Filipe Costa;5;2
+299.048.346-64;Douglas Rodrigues;1;1
+252.392.161-38;Matheus Freire;6;2
+662.312.150-10;Filipe Castilho;3;2
+493.241.988-74;Luis Sathler;8;2
+399.875.060-51;Victor Castilho;1;0
+220.091.404-62;Rafael Abdalla;1;4
+648.449.643-77;Ian Freire;6;3
+574.480.525-03;Felipe Heredia;4;2
+222.150.215-36;Rafael Villani;7;1
+390.836.682-78;Victor de Paula;1;3
+247.839.239-84;Matheus Gomes;7;3
+141.437.063-94;Daniela Candido;8;4
+448.490.051-93;Rodrigo Freire;6;5
+332.731.312-14;Yuske Castilho;2;2
+408.433.623-22;Victor Benicio;3;2
+392.973.026-47;Victor de Jesus;7;1
+593.161.001-03;Luiz Costa;8;1
+552.570.694-29;Felipe Villani;5;0
+202.764.815-66;Mariana Carvalho;4;1
+604.462.283-44;Luiz Bertolini;1;2
+597.918.264-79;Luiz Carvalho;5;4
+379.032.188-95;Victor Guimarães;7;0
+401.351.068-41;Victor Carvalho;3;0
+295.416.780-33;Douglas Silvino;5;2
+440.287.305-15;Lucas Heredia;6;1
+622.033.726-65;Ian Veiga;2;1
+509.804.935-26;Luis Guimarães;8;4
+338.387.147-48;Yuske Borges;4;0
+313.863.520-61;Yuske Gomes;2;3
+281.483.650-23;Douglas Barbosa;1;5
+361.188.804-29;Alan Sathler;1;1
+259.492.552-90;Matheus de Paula;6;2
+309.656.633-82;Yuske Heredia;3;1
+376.549.260-36;Alan Heredia;4;2
+526.697.866-06;Alex Costa;3;4
+635.532.151-36;Ian Massula;7;3
+225.569.147-99;Rafael Soares;7;3
+210.274.602-77;Rafael Benicio;3;5
+353.857.753-40;Alan Villani;1;5
+356.942.710-91;Alan Soares;4;3
+216.541.273-48;Rafael Araujo;5;5
+650.036.707-46;Filipe Ferreira;1;2
+127.878.148-70;Daniela Duarte;7;4
+342.441.258-03;Yuske Benicio;7;2
+422.429.479-71;Lucas Veiga;5;5
+438.921.308-37;Lucas Lourensão;2;1
+521.386.249-57;Alex de Paula;8;2
+613.494.894-05;Luiz Araujo;8;1
+427.201.673-24;Lucas Sathler;2;2
+676.883.519-25;Filipe Barbosa;7;1
+229.861.795-60;Rafael Sathler;4;4
+185.784.017-48;Mariana Gabriel;6;0
+274.025.344-16;Matheus Borges;8;4
+636.943.631-70;Ian Maciel;8;0
+351.266.826-40;Alan Abdalla;5;2
+261.867.538-30;Matheus de Jesus;2;0
+199.234.212-68;Mariana Costa;4;0
+317.926.823-02;Yuske Freire;5;0
+584.493.661-77;Luiz Ferreira;3;0
+172.586.619-19;Pedro Paiva;1;0
+484.161.955-36;Luis Villani;7;0
+511.661.765-47;Luis Gomes;7;0
+416.307.500-45;Lucas Aguiar;7;0
+441.757.190-79;Lucas Guimarães;2;0
+589.929.561-63;Luiz de Jesus;7;0
+184.358.768-68;Mariana Gomes;5;0
+323.676.258-55;Yuske de Paula;6;0
+395.309.445-15;Victor da Silva;6;0
+315.923.374-63;Yuske Gabriel;1;0
+507.642.138-61;Luis Heredia;8;0
+300.853.412-85;Douglas Pereira;1;0
+618.377.680-87;Ian Abdalla;8;0
+497.745.100-36;Luis Pereira;5;0
+478.339.208-74;Luis Araujo;2;0
+429.376.024-59;Lucas Rodrigues;5;0
+137.105.881-75;Daniela Castilho;7;0
+600.158.382-21;Luiz Candido;2;0
+486.344.027-48;Luis Veiga;7;0
+670.348.287-17;Filipe Bertolini;5;0
+340.310.641-63;Yuske Bertolini;3;0
+363.493.816-36;Alan Rodrigues;3;0
+242.981.560-24;Matheus Heredia;7;0
+154.975.976-03;Pedro Aguiar;4;0
+443.558.749-36;Rodrigo Gomes;8;0
+425.642.997-09;Lucas Silvino;7;0
+642.739.814-26;Ian Guimarães;3;0
+236.600.091-60;Rafael Massula;7;0
+435.546.556-88;Lucas Massula;6;0
+528.054.548-13;Alex Castilho;5;0
+325.434.282-16;Yuske de Jesus;5;0
+633.591.884-68;Ian Paiva;7;0
+682.056.565-36;Filipe Abdalla;5;0
+265.704.534-94;Matheus Costa;6;0
+550.019.988-82;Felipe Abdalla;2;0
+525.183.485-47;Alex da Silva;3;0
+404.899.327-37;Victor Borges;1;0
+173.932.977-71;Pedro Massula;8;0
+607.074.691-27;Luiz Benicio;1;0
+559.105.712-31;Felipe Silvino;4;0
+371.511.250-89;Alan Maciel;7;0
+355.301.666-15;Alan Veiga;8;0
+290.888.460-93;Douglas Veiga;5;0
+543.648.031-02;Alex Barbosa;7;0
+165.271.738-04;Pedro Silvino;6;0
+646.500.520-08;Ian Gabriel;7;0
+287.352.362-95;Douglas Abdalla;4;0
+158.678.699-67;Pedro Villani;4;0
+535.562.748-02;Alex Borges;2;0
+474.026.955-98;Rodrigo Barros;5;0
+638.860.279-24;Ian Lourensão;4;0
+187.450.364-91;Mariana Freire;7;0
+455.688.736-66;Rodrigo de Jesus;4;0
+629.162.155-88;Ian Rodrigues;8;0
+523.796.643-12;Alex de Jesus;3;0
+563.194.478-33;Felipe Rodrigues;3;0
+238.762.250-57;Rafael Maciel;3;0
+180.885.622-19;Mariana Heredia;4;0
+276.089.970-12;Matheus Bertolini;6;0
+412.125.527-21;Lucas Barbosa;1;0
+402.769.834-77;Victor Candido;2;0
